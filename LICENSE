@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2026] [玄同工作室]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,9 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+---
+
+Note: The static library `lib/libdragon_mcu.a` is NOT covered by this license.
+It is a free trial version with a 16x16 matrix size limit. Commercial use
+requires a separate license agreement. Contact embedded@xuantong.tech.
